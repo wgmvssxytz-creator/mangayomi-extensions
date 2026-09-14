@@ -1,0 +1,9 @@
+{
+  "name": "ReAnime.to",
+  "lang": "en",
+  "id": "reanime",
+  "baseUrl": "https://api.reanime.to",
+  "type": "anime",
+  "version": 1,
+  "codeUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/mangayomi-extensions/main/anime/reanime.dart"
+}
