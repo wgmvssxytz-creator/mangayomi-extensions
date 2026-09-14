@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "name": "ReAnime.to",
+      "lang": "en",
+      "id": "reanime",
+      "type": "anime",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/wgmvssxytz-creator/mangayomi-extensions/main/anime/reanime.json"
+    }
+  ]
+}
